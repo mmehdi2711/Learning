@@ -8,6 +8,3 @@
 8.	What is JVM?
 9.	What can be made using Java?
 10.	Difference between Java and JavaScript.
-11. Read about git commands.
-12. Never use Learning repo to do any edits and always use codespace.
-13. Learn about Linux commands (i.e. ls, mkdir, cd, touch)
