@@ -3,11 +3,10 @@
 3. The mv command is used to move files and directories from one location to another or to rename them.
 4. The cp command is used in Unix-like operating systems to copy files and directories.
 5. To go back a directory in the terminal, you can use the following command.
-
--cd ..: This command takes you up one directory level.
-If you want to go back multiple directories, you can string the command together like this:
-
--cd ../../: This will take you up two directories.
-Additionally, if you want to return to the previous directory you were in, you can use:
-
--cd -: This command switches you back to the last directory you were in.
+    - `cd ..`
+        - This command takes you up one directory level.
+    If you want to go back multiple directories, you can string the command together like this:
+    - `cd ../../` 
+        - This will take you up two directories.
+    -  `cd -`
+        - This command switches you back to the last directory you were in.
