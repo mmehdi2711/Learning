@@ -14,3 +14,33 @@ One thing to note about float and double is that you can have a float value as a
 7. char - while the other primitive variable types are used to store numbers, the char variable type is used to set a letter.
 8. boolean - used to set a true or false value. (must use lowercase true and lowercase false)
 ```
+```
+Integer Types:
+- byte:
+Size: 8-bit (1 byte)
+Range: -128 to 127
+- short:
+Size: 16-bit (2 bytes)
+Range: -32,768 to 32,767
+- int:
+Size: 32-bit (4 bytes)
+Range: -2,147,483,648 to 2,147,483,647 (approximately -2^31 to 2^31 - 1)
+- long:
+Size: 64-bit (8 bytes)
+Range: -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807 (approximately -2^63 to 2^63 - 1)
+Floating-Point Types:
+- float:
+Size: 32-bit (4 bytes)
+Range: Approximately 1.4e-45f to 3.4e+38f (single-precision)
+- double:
+Size: 64-bit (8 bytes)
+Range: Approximately 4.9e-324 to 1.8e+308 (double-precision)
+Character Type:
+- char:
+Size: 16-bit (2 bytes)
+Range: 0 to 65,535 (Unicode characters)
+Boolean Type:
+- boolean: 
+Size: Not precisely defined by the JVM, but typically represented as 1 bit or 1 byte.
+Range: true or false
+```
