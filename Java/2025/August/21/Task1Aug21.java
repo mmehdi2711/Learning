@@ -1,4 +1,4 @@
-public class Task1_Aug21 {
+public class Task1Aug21 {
 
     public static void main(String []args){
         System.out.println("5 X 1 = 5");

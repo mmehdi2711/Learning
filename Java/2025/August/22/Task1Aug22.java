@@ -1,4 +1,4 @@
-public class Task1_Aug22{
+public class Task1Aug22{
 
     public static void main(String[] args) {
         int a = 98;

@@ -1,5 +1,5 @@
 
-public class Task1_Aug20 {
+public class Task1Aug20 {
     public static void main(String []args){
         int variable;
         variable = 1;
