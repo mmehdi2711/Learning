@@ -1,0 +1,6 @@
+priceOfPizza = float(input ("What is the price of the pizza?: "))
+deliveryFee = float (3.00)
+tip = float(input ("How much is the customer tipping?: "))
+subTotal = (((8/100)*(priceOfPizza + deliveryFee))+(priceOfPizza + deliveryFee))
+grandTotal = (subTotal + tip)
+print (grandTotal)
