@@ -1,0 +1,4 @@
+```
+Problem 2: Amusement Park Ride Safety 
+At Adventure World theme park, the roller coaster "Thunder Mountain" has strict safety requirements. To ride, a person must be at least 48 inches tall. If they are under 54 inches tall, they must be accompanied by an adult. If they are 48 inches or taller but under 16 years old, they need a parent's signed waiver. Anyone 65 years or older needs to show a medical clearance form. If a person doesn't meet any of these requirements, they cannot ride. Write a program that asks for a person's height, age, and whether they have an adult, signed waiver, or medical clearance, then determines if they can ride and explains why or why not.
+```

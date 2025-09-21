@@ -1,0 +1,4 @@
+```
+Problem 1: School Library Late Fees 
+The Washington High School library has a late fee policy for overdue books. Students pay $0.50 per day for the first 7 days a book is late. If a book is 8-14 days late, the daily fee increases to $1.00 per day for those additional days. If a book is more than 14 days late, the student must pay a flat fee of $25.00 regardless of how many days late it is. However, if the student is a senior (grade 12), they get a 50% discount on any late fee. Write a program that asks for the number of days late and the student's grade level, then calculates and displays the total late fee.
+```
