@@ -10,6 +10,8 @@ Questions to practice for upcoming CS examination:
 
 5. How to convert the string "99" into an integer. 
 
+number = int("99")
+
 6. Trace tables. 
 
 7. Given:
