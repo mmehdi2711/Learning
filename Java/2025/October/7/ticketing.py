@@ -1,4 +1,4 @@
-b  child = 5   
+child = 5   
 teen = 8
 adult = 12
 total_price = 0
