@@ -23,5 +23,3 @@ for i in range(1, TOTAL_MEMBERS + 1):
                 print("Invalid input. Enter 1 for new or 2 for existing member.")
         except ValueError:
             print("Invalid input. Please enter a number (1 or 2).")
-
-print(f"\nTotal membership fees collected: ${total_fee:.2f}")

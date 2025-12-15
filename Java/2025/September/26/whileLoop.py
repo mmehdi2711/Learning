@@ -7,5 +7,5 @@ while students <=10:
     students = students + 1
 
 print (f"The total marks of the class is {total}")
-average = total / 10
+average = total / students
 print (f"The average marks of the class is {average}")
